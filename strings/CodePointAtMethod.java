@@ -1,3 +1,5 @@
+//CodePointAt() Method//
+
 package strings;
 
 public class CodePointAtMethod {
