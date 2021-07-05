@@ -1,3 +1,5 @@
+//Contains() Method//
+
 package strings;
 
 public class ContainsMethod {
