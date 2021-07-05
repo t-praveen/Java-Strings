@@ -1,3 +1,5 @@
+//ContentEquals() Method//
+
 package strings;
 
 public class ContentEqualsMethod {
