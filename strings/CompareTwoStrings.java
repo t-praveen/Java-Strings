@@ -1,3 +1,5 @@
+//Compare Two Strings//
+
 package strings;
 import java.util.Scanner;
 
