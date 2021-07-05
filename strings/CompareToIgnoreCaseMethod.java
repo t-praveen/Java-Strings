@@ -1,3 +1,5 @@
+//CompareToIgnoreCase() Method//
+
 package strings;
 
 import java.util.Scanner;
