@@ -1,3 +1,5 @@
+//CompareTo() Method//
+
 package strings;
 import java.util.Scanner ;
 
