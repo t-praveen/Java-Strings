@@ -1,3 +1,5 @@
+//Equals() Method//
+
 package strings;
 
 public class EqualsMethod {
