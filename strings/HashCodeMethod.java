@@ -1,3 +1,5 @@
+//HashCode() Method//
+
 package strings;
 
 public class HashCodeMethod {
