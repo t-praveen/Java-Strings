@@ -1,3 +1,5 @@
+//IsEmpty() Method//
+
 package strings;
 
 public class IsEmptyMethod {
