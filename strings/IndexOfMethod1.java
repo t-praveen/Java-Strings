@@ -1,3 +1,5 @@
+//IndexOf() Method//
+
 package strings;
 
 public class IndexOfMethod1 {
