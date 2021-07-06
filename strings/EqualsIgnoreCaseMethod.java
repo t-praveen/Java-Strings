@@ -1,3 +1,5 @@
+//EqualsIgnoreCase() Method//
+
 package strings;
 
 public class EqualsIgnoreCaseMethod {
