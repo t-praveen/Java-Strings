@@ -1,3 +1,5 @@
+//GetBytes() Method example2//
+
 package strings;
 import java.nio.charset.Charset;
 import java.util.Arrays;
