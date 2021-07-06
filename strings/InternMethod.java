@@ -1,3 +1,5 @@
+//Intern() Method//
+
 package strings;
 
 public class InternMethod {
