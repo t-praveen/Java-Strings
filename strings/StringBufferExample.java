@@ -1,3 +1,5 @@
+//String Buffer Example//
+
 package strings;
 
 public class StringBufferExample {
