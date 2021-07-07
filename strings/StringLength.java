@@ -1,3 +1,5 @@
+//String Length method//
+
 package strings;
 import java.util.Scanner;
 
