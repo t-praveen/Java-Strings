@@ -1,3 +1,5 @@
+//SubSequence() Method.//
+
 package strings;
 
 public class SubSequenceMethod {
