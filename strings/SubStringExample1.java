@@ -1,3 +1,5 @@
+//SubString() Example1//
+
 package strings;
 import java.util.Scanner;
 
