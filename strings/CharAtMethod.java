@@ -1,5 +1,5 @@
 //CharAt() Method// 
-      
+       
 package strings;
 
 public class CharAtMethod {
